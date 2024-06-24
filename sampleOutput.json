@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Tackling water shortages with the 'Star Wars' tech",
+        "description": "'I thought why don’t we give it a try?' said student Swapnil Shrivastav, after inspiration struck.",
+        "url": "https://www.bbc.co.uk/news/articles/cd11nnwp646o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e605/live/9e045140-16a6-11ef-a50f-8dde4e8806c8.png",
+        "publishedAt": "2024-05-28T10:22:24.677826Z",
+        "content": "Several years later, in 2019, that idea led him, Govinda Balaji and Venkatesh Raja to set up Uravu Labs, a Bangalore-based startup.\r\nTheir system converts air to water using atmospheric water generat… [+1061 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Singapore Airlines: 'Turbulence landed five of my family in ICU'",
+        "description": "A week on, passengers and family reveal to the BBC what happened on Flight SQ321.",
+        "url": "https://www.bbc.co.uk/news/articles/c2llg385g5zo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cc29/live/f65d0300-1caf-11ef-84cf-fbdf521dff49.jpg",
+        "publishedAt": "2024-05-28T09:52:13.1906244Z",
+        "content": "Rows ahead, Keith Davis, who was on board with his wife Kerry Jordan, recalled being thrown into a zero-gravity situation.\r\nWe were launched into space hurtling towards the ceiling. It felt as though… [+1476 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Trump trial: Jurors have these three options while deliberating",
+        "description": "A verdict could come this week - the former president's conviction or acquittal, or there could be a mistrial.",
+        "url": "https://www.bbc.co.uk/news/articles/c033m2qdm0no",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0ad1/live/8921d130-1cc3-11ef-a13a-0b8c563da930.png",
+        "publishedAt": "2024-05-28T09:07:09.5211175Z",
+        "content": "After more than five weeks, countless hours of testimony and a mountain of documents, New York Justice Juan Merchan will soon instruct a panel of 12 New Yorkers to make a historic decision: whether D… [+1201 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Coldplay singer Chris Martin helps drive woman to Big Weekend",
+        "description": "A woman with mobility issues tells of her shock when Chris Martin took her to the festival site.",
+        "url": "https://www.bbc.co.uk/news/articles/c255132zj94o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8f56/live/73757dc0-1c17-11ef-876a-93901bcf4952.jpg",
+        "publishedAt": "2024-05-28T07:52:16.6145035Z",
+        "content": "During the journey she asked about the BBC Three Counties Radio campaign to change the lyrics of Yellow to Orange to which he promised \"a good surprise\".\r\nLater that night the band did not rework the… [+811 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ukraine war: Kharkiv targeted as Russia grows in strength",
+        "description": "The composure Ukrainians show in the face of Russian attacks cannot conceal the dangers Kyiv faces in the summer ahead.",
+        "url": "https://www.bbc.co.uk/news/articles/c9xx15pe311o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b769/live/6615f1c0-1c6a-11ef-b361-8f30d78c19ee.jpg",
+        "publishedAt": "2024-05-28T05:52:13.4734249Z",
+        "content": "European allies of Ukraine are trying, with varying degrees of success, to offer more support. The new American package of military aid will make a difference once it arrives. It means Ukraine can ke… [+1129 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Beckham: Ex-England captain in deal with Euros sponsor AliExpress",
+        "description": "The announcement comes as the Euros football tournament is due to kick off in Germany next month.",
+        "url": "https://www.bbc.co.uk/news/articles/cn0091d3l0xo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5a1b/live/bd6be0c0-1ca5-11ef-81db-676ee6a0b817.jpg",
+        "publishedAt": "2024-05-28T05:22:16.068813Z",
+        "content": "David Beckham has signed a deal to be a global ambassador for AliExpress, an online retail platform owned by Chinese technology giant Alibaba.\r\nThe announcement comes as the Euros football tournament… [+1440 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Wu-Tang Clan: Rare album to go on display at Mona in Tasmania",
+        "description": "Just a single copy of the Wu-Tang Clan album exists, and only a few ears have ever listened to it.",
+        "url": "https://www.bbc.co.uk/news/articles/cl443d48x3yo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/78d6/live/f83a4a20-1c91-11ef-a13a-0b8c563da930.jpg",
+        "publishedAt": "2024-05-28T03:22:11.7870744Z",
+        "content": "An album so rare and valuable that only a few ears have ever listened to it is set to go on display at an Australian gallery, giving the public a taste of the uber-exclusive tracks.\r\nHoused in an orn… [+1082 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Luxury perfumes linked to child labour, BBC finds",
+        "description": "The BBC witnessed children picking jasmine in Egypt, a major exporter of the flowers’ oil.",
+        "url": "https://www.bbc.co.uk/news/world-middle-east-68172560",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9B4A/production/_133345793_new-xx-perfume_newnofacepicking-1.jpg",
+        "publishedAt": "2024-05-28T02:52:14.2246723Z",
+        "content": "The auditing firms most often mentioned by the conglomerates and fragrance houses on their websites, and in letters to the UN, are Sedex and UEBT. Their audit reports are not publicly available but b… [+2146 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Pope Francis allegedly used derogatory term for gay people",
+        "description": "The Pope was speaking at a meeting of bishops on whether gay men should be allowed to become priests.",
+        "url": "https://www.bbc.co.uk/news/articles/cpvvyxr79glo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c91a/live/3719cbc0-1c7a-11ef-932a-97445ce5bfdc.jpg",
+        "publishedAt": "2024-05-28T00:22:13.3490176Z",
+        "content": "Other Italian news agencies have since confirmed the Popes words citing numerous sources.\r\nThere has been shock at the Popes reported language at this private meeting, particularly as he has often ta… [+563 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "If Trump is convicted, what happens next?",
+        "description": "The jury in Mr Trump's hush-money case will soon begin deliberations. So what could happen next?",
+        "url": "https://www.bbc.co.uk/news/articles/crgg4kv0682o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0309/live/484f82c0-1916-11ef-9b6b-6f2320ba1a46.jpg",
+        "publishedAt": "2024-05-27T14:37:15.2707671Z",
+        "content": "No. Presidents can issue pardons for those who have committed federal offences. The hush-money case in New York is a state matter, meaning it would be out of Mr Trumps reach.\r\nThe same is true for Mr… [+869 chars]"
+      }
+    ]
+  }
